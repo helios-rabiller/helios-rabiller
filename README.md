@@ -1,12 +1,12 @@
 # Bonjour, je suis Hélios👨‍💻
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant en Sience Informatique à Laplateforme . Passionné par L'informatique , la cybersécurité , je suis toujours à la recherche de nouvelles opportunités pour apprendre et me perfectionner.
+Bienvenue sur mon profil GitHub ! Je suis un étudiant en Sience Informatique à Laplateforme . Passionné par L'informatique , le développement , je suis toujours à la recherche de nouvelles opportunités pour apprendre et me perfectionner.
 
 ## 🌱 Ce que j'apprends actuellement
 - Développement logiciel (Java, C++, Python Poo, C#)
 - Programmation en Python et Java
 - Algorithmes et structures de données
-- Développement d'applications mobiles (Flutter, Kotlin)
+- Développement d'applications mobiles.
 
 ## 📈 Statistiques GitHub
 ![Ton Statistique GitHub](https://github-readme-stats.vercel.app/api?username=helios-rabiller&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
