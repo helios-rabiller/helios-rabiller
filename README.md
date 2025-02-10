@@ -1,5 +1,5 @@
 # Bonjour, je suis Hélios👨‍💻
-
+[En Recherche d'Alternance]
 Bienvenue sur mon profil GitHub ! Je suis un étudiant en Sience Informatique à Laplateforme . Passionné par L'informatique , le développement , je suis toujours à la recherche de nouvelles opportunités pour apprendre et me perfectionner.
 
 ## 🌱 Ce que j'apprends actuellement
