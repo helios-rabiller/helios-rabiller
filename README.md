@@ -19,8 +19,8 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en Informatique à Laplat
 - Email : [helios.rabiller@laplateforme.io](helios.rabiller@laplateforme.io)
 
 ## ⚡ Fun facts
-- J'aime résoudre et apprendre de mes erreurs. 
-- J'aime réaliser des projets de codes en Poo bien organisé .
+- J'aime résoudre des problématiques et apprendre de mes erreurs. 
+- J'aime réaliser des projets en Poo bien organisé .
 - Je suis un passionné de randonnée.
 
 Merci d'avoir visité mon profil GitHub, n'hésitez pas à consulter mes projets et à me contacter pour toute collaboration ou question !
